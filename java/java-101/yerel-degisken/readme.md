@@ -1,6 +1,6 @@
  # Yerel Değişken
 
-Java programlama dilinin tanımladığı değişken türlerinden biri olan yerel değişkenler, sadece tanımlandıkları metot, constructor (yapıcı metod) veya açma kapama parantezleri arasında kalan blok alanlardan ulaşılırlar. 
+Java programlama dilinin tanımladığı değişken türlerinden biri olan yerel değişkenler, sadece tanımlandıkları metot, constructor (yapıcı metod) veya açma kapama süslü parantezleri arasında kalan blok alanlardan ulaşılırlar. 
 
 Belleğin stack olarak adlandırılan kısmında tutulurlar. Tanımlandıkları yapılar her çağırıldıklarında, yerel değişkenler bellekte oluşur, bu yapılar sonlandığında ise bellekten silinirler. 
 
