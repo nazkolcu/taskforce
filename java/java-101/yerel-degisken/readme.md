@@ -47,6 +47,6 @@ public static void main(String args[])
 } 
 ```
 
-Yukarıdaki örnekte Vehicle sınıfı içerisinde yer alan " **vehicleModelYear **" metodu içindeki " **year**" isimli değişken yerel tanımlıdır, ilk değer olarak 2018 verilmiştir. Dikkat edilecek olunursa Test sınıfından bir nesne oluşturup " **vehicleModelYear**" metodu çağrılmıştır. Sonuçta ekrana 2020 değerini basacaktır.  
+Yukarıdaki örnekte Vehicle sınıfı içerisinde yer alan " **vehicleModelYear**" metodu içindeki "**year**" isimli değişken yerel tanımlıdır, ilk değer olarak 2018 verilmiştir. Dikkat edilecek olunursa Test sınıfından bir nesne oluşturup "**vehicleModelYear**" metodu çağrılmıştır. Sonuçta ekrana 2020 değerini basacaktır.  
 
 Dikkat edilmesi gereken nokta: "**main**" metodu içerisinden "**year**" yerel değişkenine ulaşılmak istendiğinde, hata verecektir.
